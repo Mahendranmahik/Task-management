@@ -22,16 +22,7 @@ function App() {
         </Col>
       </Row>
     </Container>
-  //  <Container >
-  //   <Heading/>
-  //   <Row className="justify-content-md-center">
-  //     <Col lg={6}>
-  //       <Inputs/>
-  //       <Tasklist/>
-  //     </Col>
-  //   </Row>
-    
-  //  </Container>
+ 
   );
 }
 
